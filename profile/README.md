@@ -1,10 +1,7 @@
 <div align="center">
 
-<!-- ![WallGodds Banner](https://raw.githubusercontent.com/WallGodds/WallGodds-Web/main/WEBSITE%20BANNER.png) -->
+![WallGodds Banner](https://github.com/WallGodds/.github/blob/main/profile/Header.png)
 
-# WallGodds
-
-**We're building something cool. Be a part of it**
 
 [![Website](https://img.shields.io/badge/🌐_Live_Site-wallgodds.vercel.app-7056F5?style=round)](https://wallgodds.vercel.app)
 [![Discord](https://img.shields.io/discord/1319563461423792179?color=5865F2&label=Discord&logo=discord&logoColor=white&style=round)](https://discord.gg/kTQ5KWANp8)
@@ -166,16 +163,6 @@ Nothing too fancy. We picked tools that let us move fast and stay flexible.
 
 *Started with an idea. Now we're a community.*
 
-</div>
-
-## ⚖️ License
-
-Everything we build is MIT licensed. Use it, learn from it, fork it, build on it. That's the point of open source.
-
----
-
-<div align="center">
-
 **Ready to build with us?**
 
 [Join Discord](https://discord.gg/kTQ5KWANp8) • [Browse Issues](https://github.com/WallGodds) • [Read Contributing Guide](https://github.com/WallGodds/WallGodds-Web/blob/main/CONTRIBUTING.md)
@@ -185,3 +172,11 @@ Made by developers, for developers, with coffee and late-night coding sessions �
 *"The best way to predict the future is to build it—together."*
 
 </div>
+
+## ⚖️ License
+
+Everything we build is MIT licensed. Use it, learn from it, fork it, build on it. That's the point of open source.
+
+---
+
+![WallGodds Banner](https://github.com/WallGodds/.github/blob/main/profile/Footer.png)
