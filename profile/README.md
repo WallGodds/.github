@@ -1,6 +1,6 @@
 <div align="center">
 
-![WallGodds Banner](https://github.com/WallGodds/.github/blob/main/profile/Header.png)
+![WallGodds Banner](https://github.com/WallGodds/.github/blob/main/profile/Header_new.png)
 
 
 [![Website](https://img.shields.io/badge/🌐_Live_Site-wallgodds.vercel.app-7056F5?style=round)](https://wallgodds.vercel.app)
@@ -162,6 +162,6 @@ Everything we build is MIT licensed. Use it, learn from it, fork it, build on it
 ---
 <div align="center">
   
-  ![WallGodds Banner](https://github.com/WallGodds/.github/blob/main/profile/Footer.png)
+  ![WallGodds Banner](https://github.com/WallGodds/.github/blob/main/profile/Footer_new.png)
 
 </div>
