@@ -1,6 +1,6 @@
 <div align="center">
 
-![WallGodds Banner](https://github.com/WallGodds/.github/blob/main/profile/Header.png)
+![WallGodds Banner](https://github.com/WallGodds/.github/blob/main/profile/Header_new.png)
 
 
 [![Website](https://img.shields.io/badge/🌐_Live_Site-wallgodds.vercel.app-7056F5?style=round)](https://wallgodds.vercel.app)
@@ -155,28 +155,13 @@ We're most active on Discord. That's where the real conversations happen—debug
 
 Nothing too fancy. We picked tools that let us move fast and stay flexible.
 
-## 📈 The Journey So Far
-
-<div align="center">
-
-**28+ Contributors** • **45+ Stars** • **86 Forks** • **1000+ Commits**
-
-*Started with an idea. Now we're a community.*
-
-**Ready to build with us?**
-
-[Join Discord](https://discord.gg/kTQ5KWANp8) • [Browse Issues](https://github.com/WallGodds) • [Read Contributing Guide](https://github.com/WallGodds/WallGodds-Web/blob/main/CONTRIBUTING.md)
-
-Made by developers, for developers, with coffee and late-night coding sessions ☕
-
-*"The best way to predict the future is to build it—together."*
-
-</div>
-
 ## ⚖️ License
 
 Everything we build is MIT licensed. Use it, learn from it, fork it, build on it. That's the point of open source.
 
 ---
+<div align="center">
+  
+  ![WallGodds Banner](https://github.com/WallGodds/.github/blob/main/profile/Footer_new.png)
 
-![WallGodds Banner](https://github.com/WallGodds/.github/blob/main/profile/Footer.png)
+</div>
