@@ -96,13 +96,17 @@ Your suggestions can actually become features. We're not a corporate team with a
 
 We're participating in several programs that are great for newcomers:
 
-| Program | Duration | What You Get |
-|---------|----------|--------------|
-| **[Hacktoberfest](https://hacktoberfest.com/)** | October | T-shirts, stickers, and the joy of contributing |
-| **[GSSoC '25](https://gssoc.girlscript.tech/)** | 3 months | Mentorship, certificates, and real project experience |
-| **[Winter of Code 4.0](https://winterofcode.tech/)** | 30 days | Structured contribution path with GDG IIIT Kalyani |
-| **[JWOC Season 6](https://jwoc-2025.vercel.app/)** | 30 days | Community recognition and skill development |
-| **[Apertre 2.0](https://s2apertre.resourcio.in/)** | 2 months | Portfolio building with Resourcio Community |
+| Logo | Program | Description |
+|------|---------|-------------|
+| <img src="https://apertre.resourcio.in/assets/vector.svg" alt="Apertre 3.0" width="200px"> | [**Apertre 3.0**](https://apertre.resourcio.in/) | Apertre 3.0 is a 30-day open-source contribution initiative by Resourcio Community where developers of all levels collaborate on real projects, learn from mentors, and boost their portfolios. |
+| <img src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/ee8d75f60f0a4acf85238eabdea1bad3/assets/logo/273.png" alt="WOC 5.0 Logo" width="200px"> | [**Winter of Code 5.0**](https://winter-of-code.tech/) | Winter of Code 5.0 is a 30 day open-source mentorship program by GDG On Campus IIIT Kalyani, inspired by Google Summer of Code. It brings developers of all levels together to contribute to real projects, learn from mentors, and grow in the open-source community. |
+| <img src="https://hacktoberfest.com/_next/static/media/opengraph.6e804091.png" alt="Hacktoberfest" width="200px"> | [**Hacktoberfest 2025**](https://hacktoberfest.com/) | Hacktoberfest: a month-long celebration of open-source projects, their maintainers, and the entire community of contributors. |
+| <img src="https://miro.medium.com/v2/resize:fit:2400/1*ZfYWXN0zA6TqQQ7wGNJUOg.jpeg" alt="Gssoc" width="200px"> | [**GSSoC '25**](https://gssoc.girlscript.tech/) | GirlScript Summer of Code (GSSoC) is an open-source program that helps students enhance their coding skills by contributing to real-world projects. It provides mentorship, hands-on experience, and a platform to collaborate with developers across the globe. |
+| <img src="https://s2.apertre.resourcio.in/Logo_primary.svg" alt="Apertre 2.0" width="200px"> | [**Apertre 2.0**](https://s2apertre.resourcio.in/projects) | Apertre Season 2, organized by Resourcio Community, is an open-source contribution event designed to enhance your technical skills. Whether you're a beginner or a pro, everyone is welcome to join and elevate their experience, portfolio, and career to new heights! |
+| <img src="https://media.licdn.com/dms/image/v2/C560BAQEp7MUBpYE93g/company-logo_200_200/company-logo_200_200/0/1630672259441/jwoc_logo?e=2147483647&v=beta&t=wgkKrzLc-UxgSCnWShwkjn_zTXQnaa0_4cmbv4fN4PA" alt="JWOC season 6" width="200px"> | [**JWOC season 6**](https://jwoc-2025.vercel.app/projects) | JWoC offers a hands-on open-source learning experience, fostering a community of developers. Students explore selected projects during the Community Bonding Period and contribute during the coding phase. Winners are chosen based on the quality and quantity of their contributions. |
+| <img src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/ee8d75f60f0a4acf85238eabdea1bad3/assets/logo/273.png" alt="WOC 4.0 Logo" width="200px"> | [**Winter of Code 4.0**](https://winterofcode.tech/) | A 30-day open-source program by GDG On Campus IIIT Kalyani. Modeled after GSoC, it provides a platform for developers of all levels to contribute to impactful projects, enhance skills, and join a global open-source community. |
+
+
 
 These programs give structure to your contributions and often provide swag, certificates, and community recognition. Win-win.
 
